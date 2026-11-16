@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>闪电猫品牌纸雕插画</title>
+<desc>安静坐着的猫与闪电折尾，结合温和与灵动。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="cat-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="cat-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#d3ab96"/><stop offset="1" stop-color="#a95b32"/></linearGradient>
+  <linearGradient id="cat-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5ebe6"/><stop offset=".5" stop-color="#ead6cc"/><stop offset="1" stop-color="#d2aa94"/></linearGradient>
+  <linearGradient id="cat-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="cat-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="cat-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="cat-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="cat-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="399" cy="524" rx="227" ry="18" fill="#273933" opacity=".075" filter="url(#cat-blur)"/><g transform="translate(596 208) scale(0.72)" filter="url(#cat-shadow)"><path d="M-86 28c-42 0-49-55-10-69 3-41 59-53 82-20 29-16 65 4 66 33 42 0 53 56 15 66H-86Z" fill="url(#cat-paper)" stroke="#e5e9e8" stroke-width="1.2"/></g>
+<g filter="url(#cat-shadow)">
+  <path d="m486 432 55-111-43 2 84-120-8 81 51-3-79 176c-9 21-31 30-57 27l-66-9 6-39Z" fill="url(#cat-accentSoft)" stroke="#d7b7a3"/>
+  <path d="m582 203-8 81 51-3-79 176c-9 21-31 30-57 27l-15-20c24 4 39-3 48-22l59-134-40 2Z" fill="url(#cat-accent)"/>
+  <path d="M285 316c-39 56-51 108-45 151 4 35 37 54 102 53h82c54 0 76-21 69-53-9-44-36-109-67-151Z" fill="url(#cat-ink)"/>
+  <path d="M329 347c-26 39-38 83-32 129 2 24 18 40 45 44h64c19-32 18-95-8-162Z" fill="url(#cat-paper)"/>
+  <path d="m259 247 2-120 82 55a104 104 0 0 1 55 0l79-53 3 119c-4 77-42 119-111 119-70 0-108-41-110-120Z" fill="url(#cat-ink)"/>
+  <path d="m277 159 5 67 38-24Z" fill="url(#cat-accentSoft)"/>
+  <path d="m458 161-4 65-37-24Z" fill="url(#cat-accentSoft)"/>
+  <path d="M310 276q12 13 24 0m75 0q12 13 24 0" fill="none" stroke="#f4f5f0" stroke-width="5" stroke-linecap="round"/>
+  <path d="m360 298 12 1-7 9Z" fill="#d5ac95"/>
+  <path d="M277 501c18-13 45-13 61 0m54 0c17-13 43-13 60 0" fill="none" stroke="#25302b" stroke-width="3" stroke-linecap="round"/>
+</g>
+<path d="M180 390c-15-35-9-62 17-82 20 30 17 61-17 82Z" fill="url(#cat-paper)" stroke="#dfe5df"/>
+
+</svg>

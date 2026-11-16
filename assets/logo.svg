@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img">
+  <title>闪电猫</title>
+  <desc>猫耳与下颌构成单一剪影，中部镂空电形；省去细小五官和胡须。</desc>
+  <g fill="#181a1d"><path fill-rule="evenodd" d="m7 6 10 6a14 14 0 0 1 6 0L33 6v19c0 7-5 11-13 11S7 32 7 25V6Zm15 9-8 10h6l-2 6 10-12h-7l1-4Z"/><path fill="#a95b32" d="m26 13 7-7v10Z"/></g>
+</svg>
